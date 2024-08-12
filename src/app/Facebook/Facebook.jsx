@@ -23,7 +23,7 @@ export default function Facebook() {
                 <p className='pt-[5px] tracking-wide text-[16px]'>Forgotten Password?</p>
             </div>
             <div className='pt-[50px] text-center'>
-                <button className='w-[368px] h-[44px] rounded-[30px] text-blue-600  border-[0.5px] border-blue-600 tracking-wide'>Create new account</button>
+                <button className='w-[350px] h-[44px] rounded-[30px] text-blue-600  border-[0.5px] border-blue-600 tracking-wide'>Create new account</button>
             </div>
             <div className='flex justify-center pt-[30px] pb-[10px]'>
                 <img className='w-[60px] h-[12px]' src="./asset/meta.png" alt="" />
