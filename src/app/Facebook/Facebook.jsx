@@ -3,7 +3,7 @@ import React from 'react'
 
 export default function Facebook() {
     return (
-        <div className="container h-screen mx-auto bg-blue-50">
+        <div className="h-screen  bg-blue-50">
             <div className="text-center">
                 <p className="text-[14px] py-[10px] text-gray-700 tracking-wide">English (UK)</p>
             </div>
