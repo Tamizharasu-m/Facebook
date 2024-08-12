@@ -12,13 +12,13 @@ export default function Facebook() {
             </div>
             <div className='flex flex-col justify-center text-center py-[70px]'>
                 <div className='py-[15px] '>
-                    <input className='w-[368px] h-[61px] rounded-[12px] py-[10px] px-[16px] border-slate-300 border-[0.5px] tracking-wide text-[16px] focus:text-black focus:outline-black' placeholder='Mobile number or email address' type="mail" />
+                    <input className='w-[350px] h-[61px] rounded-[12px] py-[10px] px-[16px] border-slate-300 border-[0.5px] tracking-wide text-[16px] focus:text-black focus:outline-black' placeholder='Mobile number or email address' type="mail" />
                 </div>
                 <div>
-                    <input className='w-[368px] h-[61px] rounded-[12px] py-[10px] px-[16px] border-slate-300 border-[0.5px] tracking-wide text-[16px] focus:text-black focus:outline-black' placeholder='Password' type="password" />
+                    <input className='w-[350px] h-[61px] rounded-[12px] py-[10px] px-[16px] border-slate-300 border-[0.5px] tracking-wide text-[16px] focus:text-black focus:outline-black' placeholder='Password' type="password" />
                 </div>
                 <div className='py-[15px]'>
-                    <button className='w-[368px] h-[44px] bg-blue-600 rounded-[30px] text-white font-semibold'>Log in</button>
+                    <button className='w-[350px] h-[44px] bg-blue-600 rounded-[30px] text-white font-semibold'>Log in</button>
                 </div>
                 <p className='pt-[5px] tracking-wide text-[16px]'>Forgotten Password?</p>
             </div>
