@@ -3,7 +3,7 @@ import React from 'react'
 
 export default function Facebook() {
     return (
-        <div className="h-screen  bg-blue-50">
+        <div className="h-screen bg-blue-50">
             <div className="text-center">
                 <p className="text-[14px] py-[10px] text-gray-700 tracking-wide">English (UK)</p>
             </div>
@@ -17,15 +17,15 @@ export default function Facebook() {
                 <div>
                     <input className='w-[368px] h-[61px] rounded-[12px] py-[10px] px-[16px] border-slate-300 border-[0.5px] tracking-wide text-[16px] focus:text-black focus:outline-black' placeholder='Password' type="password" />
                 </div>
-                <div className='py-[10px]'>
+                <div className='py-[15px]'>
                     <button className='w-[368px] h-[44px] bg-blue-600 rounded-[30px] text-white font-semibold'>Log in</button>
                 </div>
-                <p className='py-[5px] tracking-wide text-[16px]'>Forgotten Password?</p>
+                <p className='pt-[5px] tracking-wide text-[16px]'>Forgotten Password?</p>
             </div>
-            <div className='pt-[60px] text-center'>
+            <div className='pt-[50px] text-center'>
                 <button className='w-[368px] h-[44px] rounded-[30px] text-blue-600  border-[0.5px] border-blue-600 tracking-wide'>Create new account</button>
             </div>
-            <div className='flex justify-center py-[30px]'>
+            <div className='flex justify-center pt-[30px] pb-[10px]'>
                 <img className='w-[60px] h-[12px]' src="./asset/meta.png" alt="" />
             </div>
             <div className='flex justify-center'>
